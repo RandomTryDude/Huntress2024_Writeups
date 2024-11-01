@@ -1,11 +1,12 @@
 
-#MatrioskaQR
+# MatrioskaQR
 ![MatrioskaQR_Description](images/challenge.png)
-##Keyword : The Name MatrioskaQR
 
-##Ressources :
+
+## Ressources :
 - a QRCode
 ![QR](images/qrcode.png)
+### Keyword : The Name MatrioskaQR
 -A Matrioska is a doll inside another doll
 -> Perhaps something is hidden in that qr let's decode it first 
 
