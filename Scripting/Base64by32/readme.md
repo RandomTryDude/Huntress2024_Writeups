@@ -26,7 +26,8 @@ for i in range(32):
 	
 print(string)
 ```
-Run the script : 
+Run the script :
+
 ![Script_Description](images/solve.png)
 
 
